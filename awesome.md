@@ -138,3 +138,8 @@ The list found below includes:
 
 ### Panthea EU Docs
 * Public endpoints, Snapshots (Max. 4 hours old), State Sync, Addrbook and much more: https://docs.panthea.eu
+
+### KJINC.io Public RPC, API and Snapshot services
+* Public RPC Endpoint - https://rpc-bcna.kjinc.io/
+* Public API Endpoint - https://api-bcna.kjinc.io/
+* Snapshot(Every six hours) - https://snapshot-bcna.kjinc.io/
